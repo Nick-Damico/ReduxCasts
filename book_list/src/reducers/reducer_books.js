@@ -1,8 +1,29 @@
 export default function() {
-  return [
-    { title: "Javascript: The Good Parts", pages: 101 },
-    { title: "Harry Potter", pages: 39 },
-    { title: "The Dark Tower", pages: 85 },
-    { title: "Eloquent Ruby", pages: 1 }
-  ];
+  return[
+    {
+      title: 'Beach',
+      pages: 439,
+      author: 'Alex Garland'
+    },
+    {
+      title: 'Fight Club',
+      pages: 208,
+      author: 'Chuck Palahniuk'
+    },
+    {
+      title: 'Choke',
+      pages: 304,
+      author: 'Chuck Palahniuk',
+    },
+    {
+      title: 'Walden',
+      pages: 262,
+      author: 'Henry David Thoreau'
+    },
+    {
+      title: 'Requiem For a Dream',
+      pages: 288,
+      author: 'Hubert Seleby Jr.'
+    }
+  ]
 }
